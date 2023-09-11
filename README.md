@@ -25,10 +25,10 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center"> 
   <strong>
     <a href="docs/vision.md">Vision</a>
-    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    &nbsp;&nbsp;&bull;&nbsp;&nbsp; 
     <a href="docs/design.md">Design</a>
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="https://opentelemetry.io/docs/collector/configuration/">Configuration</a>
@@ -93,7 +93,7 @@ The component is planned to be removed in a future version and no further suppor
 
 ### Unmaintained
 
-A component identified as unmaintained does not have an active code owner. Such component may have never been assigned a code owner or a previously active code owner has not responded to requests for feedback within 6 weeks of being contacted. Issues and pull requests for unmaintained components will be labelled as such. After 6 months of being unmaintained, these components will be removed from official distribution. Components that are unmaintained are actively seeking contributors to become code owners.
+A component identified as unmaintained does not have an active code owner. Such component may have never been assigned a code owner or a previously active code owner has not responded to requests for feedback within 6 weeks of being contacted. Issues and pull requests for unmaintained components will be labelled as such. After 6 months of being unmaintained, these components will be removed from official distribution. Components that are unmaintained are actively seeking contributors to become code owners. 
 
 ## Compatibility
 
@@ -128,12 +128,12 @@ Here is a list of community roles with current and previous members:
 
 - Approvers ([@open-telemetry/collector-approvers](https://github.com/orgs/open-telemetry/teams/collector-approvers)):
 
-   - [Anthony Mirabella](https://github.com/Aneurysm9), AWS
+   - [Anthony Mirabella](https://github.com/Aneurysm9), AWS 
    - [Daniel Jaglowski](https://github.com/djaglowski), observIQ
    - [Juraci Paixão Kröhling](https://github.com/jpkrohling), Grafana Labs
    - [Pablo Baeyens](https://github.com/mx-psi), DataDog
 
-- Emeritus Approvers:
+- Emeritus Approvers: 
 
    - [James Bebbington](https://github.com/james-bebbington), Google
    - [Jay Camp](https://github.com/jrcamp), Splunk
@@ -141,11 +141,11 @@ Here is a list of community roles with current and previous members:
    - [Owais Lone](https://github.com/owais), Splunk
    - [Rahul Patel](https://github.com/rghetia), Google
    - [Steven Karis](https://github.com/sjkaris), Splunk
-   - [Yang Song](https://github.com/songy23), Google
+   - [Yang Song](https://github.com/songy23), Google 
 
 - Maintainers ([@open-telemetry/collector-maintainers](https://github.com/orgs/open-telemetry/teams/collector-maintainers)):
 
-   - [Alex Boten](https://github.com/codeboten), Lightstep
+   - [Alex Boten](https://github.com/codeboten), Lightstep 
    - [Bogdan Drutu](https://github.com/BogdanDrutu), Splunk
    - [Dmitrii Anoshin](https://github.com/dmitryax), Splunk
 
@@ -155,11 +155,12 @@ Here is a list of community roles with current and previous members:
    - [Tigran Najaryan](https://github.com/tigrannajaryan), Splunk
 
 Learn more about roles in [Community membership](https://github.com/open-telemetry/community/blob/main/community-membership.md).
-In addition to what is described at the organization-level, the SIG Collector requires all core approvers to take part in rotating
-the role of the [release manager](./docs/release.md#release-manager).
+In addition to what is described at the organization-level, the SIG Collector requires all core approvers to take part in rotating 
+the role of the [release manager](./docs/release.md#release-manager). 
 
 Thanks to all the people who already contributed!
 
 <a href="https://github.com/open-telemetry/opentelemetry-collector/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=open-telemetry/opentelemetry-collector" />
 </a>
+<a>github</a>
